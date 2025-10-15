@@ -5,3 +5,4 @@ node-modules/
 about.html
 
 !important.log.DS_Store
+.DS_Store
