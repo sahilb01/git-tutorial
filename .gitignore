@@ -4,4 +4,4 @@ passwords.txt
 node-modules/
 about.html
 
-!important.log
+!important.log.DS_Store
